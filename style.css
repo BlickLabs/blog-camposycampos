@@ -377,6 +377,16 @@ Tags: blue, white, light, two-columns, right-sidebar, responsive-layout, custom-
   padding: 0px 0px 10px 0;
 }
 
+.entry-content-single h2, h3, h4, h5, h6 {
+  color: #ffffff;
+  font-family: 'BebasNeue';
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 6.3px;
+  line-height: 25px;
+  margin-top: 0;
+}
+
 .entry-content-single h1, h2, h3, h4, h5, h6,
 .entry-content-single .copyContainer {
   font-family: "lato-regular";
