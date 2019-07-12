@@ -12,8 +12,8 @@
 }
 
 .footer-logo {
-  height: 14px;
-  width: 230px;
+  height: 38px;
+  width: auto;
 }
 
 .footer-section {
@@ -61,6 +61,11 @@
     display: flex;
     -ms-flex-direction: column;
     flex-direction: column;
+  }
+
+  .footer-logo {
+    height: 28px;
+    widows: auto;
   }
 
   .footer-section-container a {
