@@ -37,7 +37,7 @@
     <a href="http://camposycampos.mx/aviso-privacidad.html">
       <span class="footer-privacy helveneue-medium">Aviso de Privacidad</span>
     </a>
-    <span class="footer-copyright helveneue-medium">Copyright® Campos & Campos 2018</span>
+    <span class="footer-copyright helveneue-medium">Copyright ® Campos, Campos & Uribe <script type="text/javascript">document.write(new Date().getFullYear());</script></span>
   </footer>
 
 </div><!-- #page -->
